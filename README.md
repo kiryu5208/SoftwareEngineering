@@ -3,8 +3,8 @@
 ![image](https://github.com/kiryu5208/SoftwareEngineering/assets/55871383/1fae784b-b4dd-4910-b0d6-258848e50596)
 
 ## 開発
-- [ ] ドメイン分析
-- [ ] 要求分析
+- [x] ドメイン分析
+- [x] 要求分析
 - [ ] システム分析
 - [ ] 設計
 - [ ] 実装
